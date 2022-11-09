@@ -1,0 +1,17 @@
+.my-btn{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 19%, rgba(247,175,104,1) 57%, rgba(246,169,93,1) 77%, rgba(240,182,91,1) 100%); 
+    margin-top: 1rem;
+    
+}
+.my-btn:hover{
+    background: rgb(228, 155, 19);
+    opacity: 0.6;
+    filter: alpha(opacity=60); 
+    zoom: 2; 
+}
+.text-btn{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: black;
+}
