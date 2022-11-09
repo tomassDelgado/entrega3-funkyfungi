@@ -1,0 +1,57 @@
+/*font-family: 'Alkalami', serif;
+font-family: 'Poppins', sans-serif;*/
+.my-btn{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 19%, rgba(247,175,104,1) 57%, rgba(246,169,93,1) 77%, rgba(240,182,91,1) 100%); 
+    margin-top: 1rem;
+    
+}
+.my-btn:hover{
+    background: rgb(228, 155, 19);
+    opacity: 0.6;
+    filter: alpha(opacity=60); 
+    zoom: 2; 
+}
+.my-bg{
+    background-image: url(../img/background.png);
+    
+}
+.text-btn{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: black;
+}
+
+.text-decoration{
+    text-decoration: none;
+}
+.style-h1{
+    font-family: 'Alkalami', serif;
+    font-weight: 700;
+}
+
+p{
+    font-family: 'Alkalami', serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.my-navbar{
+    background-color: rgb(255 163 115);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: rgb(99, 94, 94);
+}
+.my-h3{
+    font-family: 'Alkalami', serif;
+    font-weight: 700;
+    font-size: 30px;
+    
+}
+.big-icon{
+    width: 100px;
+}
+
+.footer-color{
+    background-color: rgb(180, 180, 180);
+}
